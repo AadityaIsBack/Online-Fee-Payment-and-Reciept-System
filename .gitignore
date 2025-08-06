@@ -1,0 +1,39 @@
+# === Node.js ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# === Logs ===
+logs/
+*.log
+*.csv
+
+# === OS / Editor ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Environment ===
+.env
+.env.local
+.env.*.local
+
+# === Build Output ===
+dist/
+build/
+.cache/
+
+# === VSCode ===
+.vscode/
+
+# === React ===
+*.local
+*.env
+*.env.*.local
+
+# === Misc ===
+*.tgz
+.idea/
+*.swp
