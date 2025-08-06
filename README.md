@@ -2,18 +2,18 @@
 
 A full-stack application for online fee payments with receipts.
 
-## 🔧 Tech Stack
+## Tech Stack
 - Frontend: React.js
 - Backend: Node.js + Express
 - Database: MySQL
 
-## 🚀 Features
+## Features
 - Student registration/login
 - Fee submission with receipt generation
 - Admin panel
 - Secure routing and validation
 
-## 📦 Installation
+## Installation
 ```bash
 cd Backend
 npm install
