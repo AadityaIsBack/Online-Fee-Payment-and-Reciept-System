@@ -21,3 +21,5 @@ npm install
 cd ../Frontend/react
 npm install
 npm start
+
+Read dependencies for further installation
